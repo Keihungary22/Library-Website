@@ -1,0 +1,225 @@
+{
+    "book0": {
+        "title": "Sacrifice Moon",
+        "author": "Julie Fortune",
+        "description": "A gripping tale of survival...",
+        "cover_image": "assets\/book_cover_1.png",
+        "year": "2007",
+        "genre": "fantasy",
+        "average_rating": 3.75,
+        "ratings": [
+            {
+                "user": "Alice",
+                "rating": 5,
+                "review": "Amazing book!"
+            },
+            {
+                "user": "Bob",
+                "rating": 3,
+                "review": "It was okay."
+            },
+            {
+                "user": "admin",
+                "rating": 4,
+                "review": "I'm admin.\r\n"
+            },
+            {
+                "user": "kei",
+                "rating": 3,
+                "review": "I'm kei."
+            }
+        ]
+    },
+    "book1": {
+        "title": "City of the Gods",
+        "author": "Sonny Whitelaw",
+        "description": "A tale of myth and adventure...",
+        "cover_image": "assets\/book_cover_2.png",
+        "year": "2008",
+        "genre": "mystery",
+        "average_rating": 4.3,
+        "ratings": [
+            {
+                "user": "Charlie",
+                "rating": 5,
+                "review": "Fantastic read!"
+            },
+            {
+                "user": "Dave",
+                "rating": 4,
+                "review": "Very enjoyable."
+            },
+            {
+                "user": "kei",
+                "rating": 4,
+                "review": "not bad."
+            }
+        ]
+    },
+    "book2": {
+        "title": "Barque of Heaven",
+        "author": "Suzanne Wood",
+        "description": "A journey through the cosmos...",
+        "cover_image": "assets\/book_cover_3.png",
+        "year": 2009,
+        "genre": "science",
+        "average_rating": 3.5,
+        "ratings": [
+            {
+                "user": "Eve",
+                "rating": 4,
+                "review": "Loved the characters."
+            },
+            {
+                "user": "Frank",
+                "rating": 4,
+                "review": "Great story."
+            },
+            {
+                "user": "admin",
+                "rating": 3,
+                "review": "not bad."
+            },
+            {
+                "user": "admin",
+                "rating": 3,
+                "review": "not bad."
+            }
+        ]
+    },
+    "book3": {
+        "title": "Valhalla",
+        "author": "Tim Waggoner",
+        "description": "A tale of heroism and sacrifice...",
+        "cover_image": "assets\/book_cover_4.png",
+        "year": 2010,
+        "genre": "fiction",
+        "average_rating": 4,
+        "ratings": [
+            {
+                "user": "Grace",
+                "rating": 4,
+                "review": "Engaging plot."
+            },
+            {
+                "user": "Hank",
+                "rating": 3,
+                "review": "Good but not great."
+            },
+            {
+                "user": "admin",
+                "rating": 5,
+                "review": "I'm admin."
+            }
+        ]
+    },
+    "book4": {
+        "title": "Heart's Desire",
+        "author": "Amy Griswold",
+        "description": "A romantic adventure...",
+        "cover_image": "assets\/book_cover_5.png",
+        "year": 2011,
+        "genre": "novel",
+        "average_rating": 4.666666666666667,
+        "ratings": [
+            {
+                "user": "Ivy",
+                "rating": 5,
+                "review": "Absolutely loved it!"
+            },
+            {
+                "user": "Jack",
+                "rating": 4,
+                "review": "Very good read."
+            },
+            {
+                "user": "kei",
+                "rating": 5,
+                "review": "Amazing."
+            }
+        ]
+    },
+    "book5": {
+        "title": "Female of the Species",
+        "author": "Geonn Cannon",
+        "description": "An exploration of identity...",
+        "cover_image": "assets\/book_cover_6.png",
+        "year": 2012,
+        "genre": "history",
+        "average_rating": 4,
+        "ratings": [
+            {
+                "user": "Kate",
+                "rating": 4,
+                "review": "Interesting themes."
+            },
+            {
+                "user": "Leo",
+                "rating": 4,
+                "review": "Well written."
+            }
+        ]
+    },
+    "book6": {
+        "title": "kei",
+        "author": "kei",
+        "description": "kei",
+        "cover_image": "default.png",
+        "year": "1",
+        "genre": "other",
+        "average_rating": 4.5,
+        "ratings": [
+            {
+                "user": "admin",
+                "rating": 5,
+                "review": "I'm admin."
+            },
+            {
+                "user": "admin",
+                "rating": 4,
+                "review": "admin\r\n"
+            }
+        ]
+    },
+    "book7": {
+        "title": "kei2",
+        "author": "kei",
+        "description": "kei2",
+        "cover_image": "kei2",
+        "year": 2,
+        "genre": "other",
+        "average_rating": 0,
+        "ratings": []
+    },
+    "book8": {
+        "title": "kei3",
+        "author": "kei",
+        "description": "his final work...",
+        "cover_image": "kei",
+        "year": 333,
+        "genre": "fantasy",
+        "average_rating": 4.5,
+        "ratings": [
+            {
+                "user": "admin",
+                "rating": 5,
+                "review": "Fantastic."
+            },
+            {
+                "user": "kei",
+                "rating": 4,
+                "review": "I'm kei."
+            }
+        ]
+    },
+    "book9": {
+        "title": "kei4",
+        "author": "kei",
+        "description": "kei4",
+        "cover_image": "book.png",
+        "year": 2024,
+        "genre": "fiction",
+        "average_rating": 0,
+        "ratings": []
+    }
+}
